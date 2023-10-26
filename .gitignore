@@ -1,0 +1,10 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+Pipfile.lock
+db.sqlite3
+/static
+.DS_Store
+Pipfile
